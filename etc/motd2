@@ -1,0 +1,32 @@
+
+
+      __      __ ___  ___
+      \ \    / // __|| _ \
+       \ \/\/ /| (__ |   /   Willy Compute Resources
+        \_/\_/  \___||_|_\
+
+
+Welcome to the virtual machine for the SPO subject. This
+machines cames with:
+  - Java OpenJDK 8
+  - Apache Hadoop 3.3.0 (Standalone mode)
+
+
+   SSSSSSSSSSSSSSS PPPPPPPPPPPPPPPPP        OOOOOOOOO
+ SS:::::::::::::::SP::::::::::::::::P     OO:::::::::OO
+S:::::SSSSSS::::::SP::::::PPPPPP:::::P  OO:::::::::::::OO
+S:::::S     SSSSSSSPP:::::P     P:::::PO:::::::OOO:::::::O
+S:::::S              P::::P     P:::::PO::::::O   O::::::O
+S:::::S              P::::P     P:::::PO:::::O     O:::::O
+ S::::SSSS           P::::PPPPPP:::::P O:::::O     O:::::O
+  SS::::::SSSSS      P:::::::::::::PP  O:::::O     O:::::O
+    SSS::::::::SS    P::::PPPPPPPPP    O:::::O     O:::::O
+       SSSSSS::::S   P::::P            O:::::O     O:::::O
+            S:::::S  P::::P            O:::::O     O:::::O
+            S:::::S  P::::P            O::::::O   O::::::O
+SSSSSSS     S:::::SPP::::::PP          O:::::::OOO:::::::O
+S::::::SSSSSS:::::SP::::::::P           OO:::::::::::::OO
+S:::::::::::::::SS P::::::::P             OO:::::::::OO
+ SSSSSSSSSSSSSSS   PPPPPPPPPP               OOOOOOOOO
+
+
